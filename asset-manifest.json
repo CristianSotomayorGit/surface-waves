@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/surface-waves/static/css/main.7bc72a4f.css",
+    "main.js": "/surface-waves/static/js/main.ce1ac3b9.js",
+    "index.html": "/surface-waves/index.html",
+    "main.7bc72a4f.css.map": "/surface-waves/static/css/main.7bc72a4f.css.map",
+    "main.ce1ac3b9.js.map": "/surface-waves/static/js/main.ce1ac3b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc72a4f.css",
+    "static/js/main.ce1ac3b9.js"
+  ]
+}
